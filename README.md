@@ -1,7 +1,7 @@
-# tukakore_sticker
+# Seal made to the prize of WordCamp Osaka 2018 " tukakore_sticker "
 tukakore_sticker
 
-WordCamp Osaka 2018 のスロット用景品に作ったシール
+WordCamp Osaka 2018 のスロット用景品に作ったシール 「ツカコレ」
 ![
 Seal made to the prize of WordCamp Osaka 2018](tsukakore_sticker.png) 
 
